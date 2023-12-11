@@ -1,5 +1,5 @@
 # go-api
-Exemple of dockerizing GO REST API with Postgres, air
+Exemple of dockerizing Go / Go Fiber REST API with Postgres, air
 
 ```sh
     $ docker-compose up -d --build
